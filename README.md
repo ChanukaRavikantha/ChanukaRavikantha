@@ -11,6 +11,20 @@
 
 - 📫 How to reach me **cravikantha@gmail.com**
 
+  <br>
+
+  <h1 align="center">Chanuka's GitHub Activitys</h1>
+  
+
+
+| ![Chanuka's github stats](https://github-readme-stats.vercel.app/api?username=ChanukaRavikantha&show_icons=true&theme=tokyonight) | ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaRavikantha&theme=tokyonight) |
+| --- | --- |
+
+
+
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chanuka ravikantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuka ravikantha" height="30" width="40" /></a>
