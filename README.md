@@ -33,11 +33,8 @@
   <h1 align="center">GitHub Activitys</h1>
   
 
-
 | ![Chanuka's github stats](https://github-readme-stats.vercel.app/api?username=cravikantha&show_icons=true&theme=tokyonight)        | ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=cravikantha&theme=tokyonight) |
 | --- | --- |
-
-
 
 
 <br>
