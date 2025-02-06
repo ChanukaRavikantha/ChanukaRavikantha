@@ -2,7 +2,9 @@
 <h3 align="center">A passionate IT Student | Growing, Learning, and Building with Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanukaravikantha&label=Profile%20views&color=0e75b6&style=flat" alt="chanukaravikantha" /> </p>
-
+<table aline="center">
+  <tr boader="none">
+    
 - 🌱 I’m currently learning **Project and Professional Aspects of IT**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
@@ -11,7 +13,16 @@
 
 - 📫 How to reach me **cravikantha@gmail.com**
 
-  <br>
+  </tr>
+  </td>
+  <td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
   <h1 align="center">GitHub Activitys</h1>
   
