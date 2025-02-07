@@ -32,11 +32,22 @@
 
 
   <h1 align="center">GitHub Activitys</h1>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cravikantha&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cravikantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
   
-
-| ![Chanuka's github stats](https://github-readme-stats.vercel.app/api?username=cravikantha&show_icons=true&theme=tokyonight)        | ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=cravikantha&theme=tokyonight) |
-| --- | --- |
-
+  </td>
+</tr>
+</table>
 
 <br>
 
